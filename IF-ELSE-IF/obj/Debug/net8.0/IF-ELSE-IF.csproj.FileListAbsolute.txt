@@ -1,0 +1,14 @@
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\IF-ELSE-IF\bin\Debug\net8.0\IF-ELSE-IF.exe
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\IF-ELSE-IF\bin\Debug\net8.0\IF-ELSE-IF.deps.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\IF-ELSE-IF\bin\Debug\net8.0\IF-ELSE-IF.runtimeconfig.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\IF-ELSE-IF\bin\Debug\net8.0\IF-ELSE-IF.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\IF-ELSE-IF\bin\Debug\net8.0\IF-ELSE-IF.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\IF-ELSE-IF\obj\Debug\net8.0\IF-ELSE-IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\IF-ELSE-IF\obj\Debug\net8.0\IF-ELSE-IF.AssemblyInfoInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\IF-ELSE-IF\obj\Debug\net8.0\IF-ELSE-IF.AssemblyInfo.cs
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\IF-ELSE-IF\obj\Debug\net8.0\IF-ELSE-IF.csproj.CoreCompileInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\IF-ELSE-IF\obj\Debug\net8.0\IF-ELSE-IF.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\IF-ELSE-IF\obj\Debug\net8.0\refint\IF-ELSE-IF.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\IF-ELSE-IF\obj\Debug\net8.0\IF-ELSE-IF.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\IF-ELSE-IF\obj\Debug\net8.0\IF-ELSE-IF.genruntimeconfig.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\IF-ELSE-IF\obj\Debug\net8.0\ref\IF-ELSE-IF.dll
